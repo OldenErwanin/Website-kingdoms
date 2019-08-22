@@ -2,8 +2,8 @@
 Live preview link:
 https://kingdomsroleplay.000webhostapp.com/
 
-Test admin user login:<hr>
+Test admin user login:
 Username: test
 Password: test123
-
+<hr>
 That all the reference project files, except the CKEditor's files in the "lib" folder.
