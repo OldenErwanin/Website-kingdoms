@@ -2,7 +2,7 @@
 Live preview link:
 https://kingdomsroleplay.000webhostapp.com/
 
-Test admin user login:<br>
+Test admin user login:<hr>
 Username: test
 Password: test123
 
